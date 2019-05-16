@@ -1,4 +1,5 @@
-﻿Roulette. Number of players, number of games and game mode are passed to program via console.
+#Roulette.
+Number of players, number of games and game mode are passed to program via console.
 At the beginning program asks about names of the players and the numbers they bet.
 Next depending on game mode following actions are executed:
 Mode 1: Program executes all games and finally print  summary in form (example):
